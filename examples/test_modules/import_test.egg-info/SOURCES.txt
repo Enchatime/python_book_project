@@ -1,0 +1,6 @@
+import_test.py
+setup.py
+import_test.egg-info/PKG-INFO
+import_test.egg-info/SOURCES.txt
+import_test.egg-info/dependency_links.txt
+import_test.egg-info/top_level.txt
