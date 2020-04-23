@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request #redirect - module for redirect
+from flask import Flask, render_template, request #redirect - module for redirect to another url
 from examples.def_ex import search4letters
 
 app = Flask(__name__)
